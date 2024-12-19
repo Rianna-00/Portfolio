@@ -38,7 +38,7 @@ p {
     font-size: 16px;
     line-height: 30px;
 }
-images {margin: auto;
+.image-fluid {margin: auto;
 }
 
 .hero {
